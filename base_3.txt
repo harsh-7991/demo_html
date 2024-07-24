@@ -1,1 +1,3 @@
 working area line
+staging area line
+commited area line
