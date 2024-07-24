@@ -1,0 +1,3 @@
+hello this is base file to check the diff
+the diff between staging and working
+the diff between commited and staging
